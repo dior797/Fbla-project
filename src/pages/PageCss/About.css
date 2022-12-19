@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;800&display=swap');
+
+.Aboutus{
+    filter: blur(2.5px);
+    -webkit-filter: blur(2.5px);
+}
+.mission {
+    position: absolute;
+    top: 38%;
+    left: 16%;
+    bottom: 50%;
+    width: 70%;
+    font-size: 200%;
+    color: white;
+    text-align: center;
+    font-family:  'Nanum Myeongjo', serif;
+    border-radius: 50px;
+}
+

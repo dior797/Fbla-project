@@ -1,0 +1,13 @@
+#Image{
+    height: auto;
+    width: 15%;
+margin-left: 41%;
+}
+
+.container{
+display: flex;
+justify-content: space-around;
+}
+
+.item1{
+}
